@@ -1,4 +1,4 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="./desk-logo.png" align="left" width="200"/>
 
 ### `Desk Management Systems`
 
